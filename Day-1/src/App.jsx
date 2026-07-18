@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <h1>Hello, World!</h1>
-      <p>This is your default React boilerplate.</p>
+      <p>Welcome.</p>
     </div>
   );
 }
